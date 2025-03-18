@@ -27,8 +27,7 @@ This project aims to integrate key DBMS principles—such as ER modeling, SQL qu
 
 ✅ Animal Details Management  
 ✅ Visitor Registration & Ticket Booking  
-✅ Admin Dashboard with Record Control  
-✅ Contact Us Page (Feedback Form)  
+✅ Contact Us Page
 ✅ Secure Login & Data Validation  
 ✅ Responsive Front-End using HTML/CSS  
 ✅ Efficient Data Storage via MySQL
