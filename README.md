@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/0d2ac600-14ed-4d60-89bb-4caa4cec8632)
-" alt="Zoo Management System" width="100%">
+  <img src="https://github.com/user-attachments/assets/0d2ac600-14ed-4d60-89bb-4caa4cec8632" alt="Zoo Management System" width="100%">
 </p>
 
 <h1 align="center">🐾 Zoo Management System</h1>
@@ -51,17 +50,16 @@ This project aims to integrate key DBMS principles—such as ER modeling, SQL qu
 ## 📷 Project Screenshots
 
 ### 🔸 Home Page
-<img src="![image](https://github.com/user-attachments/assets/7149150f-b037-48e3-a2bb-602721612f9a)
-" alt="Home Page" width="70%"/>
+<img src="https://github.com/user-attachments/assets/7149150f-b037-48e3-a2bb-602721612f9a" alt="Home Page" width="70%"/>
 
 ### 🔸 Contact Us Page
-<img src="images/contact_us.png" alt="Contact Page" width="70%"/>
+<img src="https://github.com/user-attachments/assets/0fb645b7-340b-4d59-95ca-03380b72a2fc" alt="Contact Page" width="70%"/>
+
+### 🔸 Database
+<img src="https://github.com/user-attachments/assets/4a6024bc-f78b-4eb7-b6b5-38a874929856" alt="Database" width="70%"/>
 
 ### 🔸 ER Diagram
-<img src="images/er_diagram.png" alt="ER Diagram" width="70%"/>
-
-### 🔸 Normalized Table (3NF)
-<img src="images/normalization.png" alt="Normalization Tables" width="70%"/>
+<img src="https://github.com/user-attachments/assets/2a1b99a8-8423-4671-be17-c93ed82d18c4" alt="ER Diagram" width="70%"/>
 
 ---
 
