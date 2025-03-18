@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="images/banner_zoo_system.jpg" alt="Zoo Management System" width="100%">
+  <img src="![image](https://github.com/user-attachments/assets/0d2ac600-14ed-4d60-89bb-4caa4cec8632)
+" alt="Zoo Management System" width="100%">
 </p>
 
 <h1 align="center">🐾 Zoo Management System</h1>
@@ -49,10 +50,9 @@ This project aims to integrate key DBMS principles—such as ER modeling, SQL qu
 
 ## 📷 Project Screenshots
 
-> *(Ensure you upload these images in `/images/` folder in your repo)*
-
 ### 🔸 Home Page
-<img src="images/homepage.png" alt="Home Page" width="70%"/>
+<img src="![image](https://github.com/user-attachments/assets/7149150f-b037-48e3-a2bb-602721612f9a)
+" alt="Home Page" width="70%"/>
 
 ### 🔸 Contact Us Page
 <img src="images/contact_us.png" alt="Contact Page" width="70%"/>
